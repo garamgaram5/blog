@@ -2,8 +2,7 @@
 ### 강의 노트
 
 **목차** 
-
-[오리엔테이션](https://github.com/garamgaram5/blog/edit/master/orienation.md)
-[EC2](https://github.com/garamgaram5/blog/edit/master/ec2.md) 
+- [오리엔테이션](https://garamgaram5.github.io/blog/orientation)
+- [EC2](https://garamgaram5.github.io/blog/ec2) 
 
 
