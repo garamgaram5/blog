@@ -23,11 +23,11 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% if page.title %}
+        {% for page in pages %}
           <ul>
-            <li><a href="{{ page.title }}"><strong>{{ page.title }}</strong></a></li>
+            <li><a href="{{"/" | absolute_url }}"><strong>{{ page.title }}</strong></a></li>
           </ul>
-        {% endif %}
+        {% endfor %}
 
         {% if site.show_downloads %}
         <ul class="downloads">
