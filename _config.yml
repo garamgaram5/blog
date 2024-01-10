@@ -1,2 +1,8 @@
-## theme: jekyll-theme-cayman
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-cayman
+#remote_theme: pages-themes/cayman@v0.2.0
+# plugins:
+# - jekyll-remote-theme # add this line to the plugins list if you already have one
+remote_theme: pages-themes/minimal@v0.2.0
+
+title: [IT 공부 노트]
+description: [오늘부터 기록하는 습관 기르려 시작하는 개발 블로그]
