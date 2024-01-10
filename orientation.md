@@ -1,3 +1,5 @@
+[목차](https://garamgaram5.github.io/blog)   
+   
 ### 이 강의는    
 - 용어, 원리 풀어서 설명   
 - 실전에서 바로 쓸 수 있는 구성    
@@ -44,5 +46,3 @@
 QnA 적극 활용.    
 [오픈톡방](https://open.kakao.com/o/sIvZoWTf)   
 [수업자료](https://jscode.notion.site/2a38dc67ca1448f7ab350e40b89abd5a)   
-   
-[목차](https://garamgaram5.github.io/blog) 
