@@ -24,10 +24,9 @@ EC2를 통해 백엔드 서버 배포까지 함. IP 주소 제공 받음
 - IP 주소는 HTTPS 적용이 안됨    
     
 #### 0. Route53에 연결할 EC2 생성 (Express 서버 복습)   
-(참고)[https://jscode.notion.site/7-Express-EC2-5f90f0ece37943f99dffbf29a21bdd93]
+(참고)[Express 서버를 EC2에 배포하기](https://jscode.notion.site/7-Express-EC2-5f90f0ece37943f99dffbf29a21bdd93)
     
 #### 1. Route53에서 도메인 구매    
-    
 검색 > 결제 > 이메일 주소는 정확히 써야 함    
     
 등록된 도메인
