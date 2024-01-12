@@ -8,3 +8,5 @@
 - [[RDS] 데이터베이스 연결하기](https://garamgaram5.github.io/blog/rds)   
 - [[S3] 파일 및 이미지 업로드](https://garamgaram5.github.io/blog/s3)   
 - [[S3, Cloudfront] 웹 페이지 배포하기](https://garamgaram5.github.io/blog/cloudfront)   
+- [최종 미션](https://garamgaram5.github.io/blog/finalmission)   
+- [에러 일기](https://garamgaram5.github.io/blog/error_note)
